@@ -66,8 +66,8 @@ def main():
       #updateStudentEmail("2", "'student@newemail.com'")
       #getAllStudents()
       #updateStudentEmail("3", "'student@newemail.com'")
-      deleteStudent('1')
-      getAllStudents()
+      #deleteStudent('1')
+      #getAllStudents()
 
       # Closing connections
       connect.commit()
