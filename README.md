@@ -8,4 +8,4 @@ Compilation Instructions: 	Have python installed
 
 Execution Instructions:		Run python sqlFunctions.py
 
-Video Link: https://youtu.be/kikaKLBGEHE
+Video Link: https://youtu.be/QsvFzJqk_Ww
